@@ -1,4 +1,4 @@
-# cargo
+# CarGo
 
 A fully functional car rental app developed for Malaysia using Flutter and Dart
 
