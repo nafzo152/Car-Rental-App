@@ -1,6 +1,6 @@
 # cargo
 
-A new Flutter project.
+A fully functional car rental app developed for Malaysia using Flutter and Dart
 
 ## Getting Started
 
